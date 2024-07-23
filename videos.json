@@ -1,0 +1,62 @@
+{
+    "video1": {
+        "url": "https://www.youtube.com/watch?v=4apx6gd5Uxs",
+        "crop_start": null,
+        "crop_end": "00:05:00",
+        "description": "Amateur tennis match. 1080p"
+    },
+    "video2": {
+        "url": "https://www.youtube.com/watch?v=sEiB2E_N3OA",
+        "crop_start": "00:09:30",
+        "crop_end": "00:15:23",
+        "description": "Clay court, 720p"
+    },
+    "video3": {
+        "url": "https://www.youtube.com/watch?v=5uFAkizQNJI",
+        "crop_start": "00:00:32",
+        "crop_end": "00:10:32",
+        "description": "Grass court, 1080p"
+    },
+    "video4": {
+        "url": "https://www.youtube.com/watch?v=QMBZ0W-xjuI",
+        "crop_start": "00:04:00",
+        "crop_end": "00:10:00",
+        "description": "Amateur, Clay court, 1080p"
+    },
+    "video5": {
+        "url": "https://www.youtube.com/watch?v=tKIFQI9cH2c",
+        "crop_start": "00:07:00",
+        "crop_end": "00:12:00",
+        "description": "Hard court, 1080p"
+    },
+    "video6": {
+        "url": "https://www.youtube.com/watch?v=47mFjMai8H0",
+        "crop_start": "00:00:00",
+        "crop_end": "00:07:30",
+        "description": "Hard court. 1080p"
+    },
+    "video7": {
+        "url": "https://www.youtube.com/watch?v=T4S5YmO0KOU",
+        "crop_start": "00:00:00",
+        "crop_end": "00:07:30",
+        "description": "Grass court, 1080p"
+    },
+    "video8": {
+        "url": "https://www.youtube.com/watch?v=ha2WBrdKpxo",
+        "crop_start": "00:00:00",
+        "crop_end": "00:05:30",
+        "description": "Grass. Amateur tennis match. 1080p"
+    },
+    "video9": {
+        "url": "https://www.youtube.com/watch?v=DSlTN8kAVHs",
+        "crop_start": "00:00:00",
+        "crop_end": "00:07:32",
+        "description": "Amateur. Grass court, 1080p"
+    },
+    "video10": {
+        "url": "https://www.youtube.com/watch?v=f5fTZ0jK4Uc",
+        "crop_start": null,
+        "crop_end": "00:05:00",
+        "description": "Amateur. Artifical Grass court, 720p"
+    }
+}

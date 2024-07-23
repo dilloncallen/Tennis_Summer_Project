@@ -1,3 +1,5 @@
+# main.py
+
 import cv2
 from court_detection_net import CourtDetectorNet
 import numpy as np

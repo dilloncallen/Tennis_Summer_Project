@@ -1,3 +1,5 @@
+# utils.py
+
 from scenedetect.video_manager import VideoManager
 from scenedetect.scene_manager import SceneManager
 from scenedetect.stats_manager import StatsManager

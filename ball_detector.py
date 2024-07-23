@@ -1,3 +1,5 @@
+# ball_detector.py
+
 from tracknet import BallTrackerNet
 import torch
 import cv2
